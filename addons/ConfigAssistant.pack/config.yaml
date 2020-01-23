@@ -1,11 +1,12 @@
 name: Configuration Assistant
 id: ConfigAssistant
 key: ConfigAssistant
-author_link: https://github.com/openmelody/mt-plugin-configassistant
-author_name: "Byrne Reese, Open Melody Software Group"
+author_link: http://www.after6services.com/plugins/
+author_name: After6 Services LLC
+author_email: customer.service@after6services.com
 description: This plugin provides a simple YAML based framework for creating plugin and theme configuration options.
-version: 2.5.25
-static_version: 22
+version: 2.5.26
+static_version: 23
 schema_version: 4
 
 object_types:
@@ -100,6 +101,6 @@ config_types:
 blog_preferences:
   __default__:
     label: 'Factory Default'
-    description: 'These are the default factory settings for Melody.'
+    description: 'These are the default factory settings for Movable Type 5/6.'
     order: 1
     preferences: default_prefs.yaml
