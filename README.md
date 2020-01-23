@@ -67,7 +67,7 @@ foisted upon end users to deploy a plugin/theme's static content.
 
 * Movable Type 5.x or higher
 
-* Movable Type 4.1 or higher is supported with [Config Assistant version 2.3.13](https://github.com/openmelody/mt-plugin-configassistant/releases)
+* Movable Type 4.1 or higher is supported with [Config Assistant version 2.3.13](https://github.com/after6services/mt-plugin-configassistant)
 
 ### <a id="features">Features</a> ###
 
@@ -1342,19 +1342,23 @@ This plugin was originally created by [Byrne Reese][] of [Endevver, LLC][]. It
 was later gifted to the [Open Melody Software Group][] for bundling with
 Melody and further development by the Melody Community.
 
-[help.endevver.com]:            http://help.endevver.com
-[Byrne Reese]:                  http://majordojo.com
-[Endevver, LLC]:                http://endevver.com
-[Open Melody Software Group]:   http://openmelody.org
+The code has been maintained by a number of Movable Type developers from 2010 to
+2020 including Dan Wolfgang, Jay Allen, and Byrne Reese. Some of the enhancements made
+during this period include making Config Assistant compatible with Movable Type
+versions 5 and 6.
+
+In 2020, Dave Aiello from After6 Services forked the project and began updating the
+documentation so that it referenced developers who were still supporting the
+Movable Type web publishing platform.
+
+[After6 Services LLC]:          http://after6services.com
+[Movable Type]:                 http://movabletype.com
 [Github repo]:
-   http://github.com/openmelody/mt-plugin-configassistant
-[Packaged downloads]:
-   http://github.com/openmelody/mt-plugin-configassistant/downloads
+   http://github.com/after6services/mt-plugin-configassistant
 [Standard plugin installation]:
-   http://tinyurl.com/easy-plugin-install
-[Lighthouse]:
-   http://openmelody.lighthouseapp.com/projects/68651/overview
+   http://after6services.com/2020/01/the-ultimate-guide-to-installing-movable-type-plugins/
 
 Copyright 2008 Six Apart, Ltd.   
-Copyright 2009-2010 Byrne Reese   
+Copyright 2009-2010 Byrne Reese.
+Copyright &copy; 2020, After6 Services LLC.  
 License: Artistic, licensed under the same terms as Perl itself   
